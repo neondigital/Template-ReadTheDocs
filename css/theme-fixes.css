@@ -25,10 +25,10 @@ pre {
     margin: 1px 0 24px 0;
 }
 
-ul {
+ul, ul>li {
     list-style-type: disc;
 }
 
-ol {
+ol, ol>li {
     ist-style-type: decimal;
 }
