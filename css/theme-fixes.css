@@ -30,5 +30,5 @@ ul, ul>li {
 }
 
 ol, ol>li {
-    ist-style-type: decimal;
+    list-style-type: decimal;
 }
